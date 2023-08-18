@@ -1,0 +1,6 @@
+--2023-08-16 13:06:16--  https://www.google.com/search?q=google
+Resolving www.google.com (www.google.com)... 142.250.192.36, 2404:6800:4009:827::2004
+Connecting to www.google.com (www.google.com)|142.250.192.36|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-08-16 13:06:18 ERROR 403: Forbidden.
+

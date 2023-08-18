@@ -1,0 +1,296 @@
+Shortcuts.
+
+1:Changes: We have made a few changes to your target device settings, Could you please check with the new calls?
+
+2:Command: We have sent a command to restart the service on your target device. Can you please refresh the browser and then check.
+
+3Install: To monitor any device You must first install TiSPY on the phone you want to monitor.
+
+Follow the below steps to install the application on the phone that you want to monitor.
+1. Open link https://tispy.app in the phone web browser, which will start downloading APK.
+2. Install that apk.
+3. Configure TiSPY client using your email ID.
+4. Clean browser and download history from phone.
+ 
+For more information refer installation guide: https://tispy.net/install-guide/
+
+After successfully installing and registering with TiSPY, you can monitor your device at https://tispy.net/
+ 
+We offer a free trial to access and verify all features to our users.
+ 
+Before TiSPY installation, you must disable the Google Play protection of the Play Store application.
+ 
+Read our terms and conditions from here: https://tispy.net/TiSPY/legal-info.html
+ 
+Demo: https://tispy.net/demo/new/
+
+Feel free to get in touch with us for any further assistance needed.
+
+Installation(ios): Quick setup tour to use TiSPY iOS monitoring application.
+
+Step1. Install iPhone Backup Extractor software into your computer (Windows & Mac OS).
+Step2. Login into your account using your existing email ID & password. If don't have one, create your account on https://tispy.net/signup/ 
+Step3. Connect your iPhone device to your computer via USB cable.
+Step4. Device will show a popup asking you to Trust this Computer.
+Step5. Click on the “Trust” button and your device will be connected to your computer.
+Step6. Click on the “+ Add” button. It will search for connected devices and show you.
+Step7. Select the device which you want to monitor.
+Step8. Now, it will add into your account and take backup from it.
+Step9. Wait until all backup processes are finished and display a successful backup message.
+For more information refer installation guide: https://tispy.net/install-guide-ios/
+
+Moreover: 1. Both target device and Mac/Laptop should have the same WiFi connection to sync the data over the network.(Cell data will not work in that case).
+2. WiFi network will take bit more time to sync, compared to via USB cable.
+
+Feel free to get in touch with us for any further assistance needed.
+
+
+4:Compatible: TiSPY is an Android, Windows, and MAC-based application you can not install on iPhone.
+
+5:Screenshot: Could you please share the screen shot so that we can assist you in a better way?
+
+
+Can you please explain the relationship with the person you want to monitor?
+
+Looking forward to hearing back from you.
+
+
+6:Tispy: "TiSPY service is designed for parents to keep watch on their kid's phone. You must not use our service for any other purpose. If it comes to our notice then we may terminate your service with immediate effect.
+Please read our terms and condition from here: https://tispy.net/TiSPY/legal-info.html"
+
+TiSPY
+https://tispy.net
+
+7:Transferred: We have transferred your subscription as per your request, please once refresh your browser and then check.
+
+
+8: Hello there,
+
+Thanks for contacting support with your reported issue.
+
+Could you please elaborate on your query/issue a bit more to assist you in a better way?
+
+Looking forward to hearing back from you.
+
+
+Hello there,
+
+Thanks for contacting support with your reported request.
+
+"TiSPY service is designed for parents to keep watch on their kid's phone. You must not use our service for any other purpose. If it comes to our notice then we may terminate your service with immediate effect.
+Please read our terms and condition from here: https://tispy.net/TiSPY/legal-info.html"
+
+TiSPY
+https://tispy.net.
+
+Feel free to get in touch with us for any further assistance needed.
+
+Enable phone permission from your monitoring Device's Settings -> Application Manager -> WiFi Service -> In that you will find permission tab -> Open that permission -> find overlay permission.
+
+
+asadn1992@gmail.com: call recording.
+
+Follow below steps on device which you have installed TiSPY.
+
+1. Open application installed list in your target device.
+2. Settings >> Apps >> Uninstall "WiFi service".
+
+- When you uninstall WiFi service to target phone there application will Alert one message Insert Pin.
+- That Pin is your Password when you first time registered with TiSPY.
+
+
+It looks like that all the settings are correct, Please check and disable the Wifi calling option in the target phone which may cause of call recording.
+
+Please go to "Phone" ===> "Settings" ===> WiFI Calling ===>Disable it.
+
+
+In Android 10 and above,  if Call recording not coming or Getting Oneway, We may suggest customer to disable "WiFi Calling" option which comes under Please go to "Phone" ===> "Settings" ===> WiFI Calling ===>Disable it.
+
+Live features is a real time features so you can only download them when you are accessing after that you can not downlaod them.
+After access live features it will appear in the page for sometime after it will disappear.
+
+Enable Powersaveignore
+
+Settings -> Battery -> Battery Optimization -> WiFi service -> Don’t Optimize
+
+https://tispy.net/wp-content/uploads/2020/01/powersave.gif
+
+You have to do enable in the target device.
+Also, there are a few permissions, which are disabled on your target device, like," calendar, overlay, net-GPS, mic, voiprec, location.
+
+suzana.tavcar@gmail.com: Live screen
+
+
+We support two payment gateways.
+
+1. Paypal
+2. PayproGlobal
+
+Both are international payment gateways and accepted all major cards. If you failed with one payment gateway try to make payment with another payment gateway.
+
+
+For example, if you have defined Aliases for the SMS command as shown below,
+Command: x9f9p9 AC 10
+Alias ​​1: Good morning
+Alias ​​2: Good afternoon
+
+
+Once you set this way on the TiSPY dashboard, "Good Morning son" becomes an alternative to your SMS command "x9f9p9 AC 10". So if you text "Good morning" to the target phone, it will capture the audio for 10 seconds and upload it to the TISPY dashboard, developer page.
+
+You can check https://www.youtube.com/watch?v=U75hnhlFZyQ&t=44s
+
+
+Username : Support email address
+
+password : &E-Pxdk6t,GbA49Y
+
+
+Greetings from TiSPY support team! You are online with Daniel. How may I assist you today?
+
+We have transferred the subscription as per your request please once refresh the browser and then check.
+
+Can you tell us what is the relationship with that person?
+
+TiSPY service is designed for parents to keep watch on their kid's phone. You must not use our service for any other purpose. If it comes to our notice then we may terminate your service with immediate effect.
+Please read our terms and condition from here : https://tispy.net/TiSPY/legal-info.html
+
+It was a pleasure connecting with you. Have you blissful day ahead.
+
+We have sent a command to restart service in your target device can you please once refresh the browser and then check.
+
+Could you please elaborate your issue bit more to assist you in a better way?
+
+https://tispy.net/demo/new/index.html
+
+Is there anything else I may help you with?
+
+Please wait, while I get the required information for you.
+
+To monitor any device You must first install TiSPY on the phone you want to monitor.
+
+After successfully installing and registering with TiSPY, you can monitor your device at https://tispy.net/
+
+We offer a two-day free trial to access and verify all features to our users.
+
+Before TiSPY installation, you must disable the Google Play protection of the Play Store application.
+
+For step by step installation guide: https://tispy.net/install-guide.html
+
+Read our terms and conditions from here: https://tispy.net/TiSPY/legal-info.html
+
+TiSPY is an Android, Windows, and MAC-based application you can not install on iPhone.
+
+As I am not getting any response, I am closing this chat. Thank you for connecting TiSPY support. Have a Great day
+
+If you like TiSPY services, please click the like button on FB & YouTube, links are mentioned below:
+https://www.facebook.com/TiSPY.net/
+https://www.youtube.com/channel/UCrAlAmAjx8M40iVv4V-j13w
+You can also refer TiSPY to your friends and Family so along with you they also can avail our services and keep their kids away from the outside threats.
+
+Could you please share the screen shot so that we can assist you in a better way?
+
+Please send us an email at support@tispy.net so one of our product expert will help you in a better way.
+
+Thanks for contacting TiSPY Support with your issue.
+
+We have sent a wake-up command to reinitiate service on your target device please once refresh the browser and then check.
+
+
+As I am not getting any response, I am closing this chat. Thank you for connecting TiSPY support. Have a Great day
+
+
+Freshdesk: Notification Sound, resolved,Need to refesh everytime.
+
+Testing Email: vartit03@gmail.com, Password: Vartitsupport@2021
+
+
+Testing Email: vartit03@gmail.com, Password: Vartitsupport@2021
+
+Whatsapp ==> Settings ==> Chats ==> Media visibility. enable it.
+
+TiSPY supports all Android phones, call recording supports in all devices except SAMSUNG A series, in A series OS does not allow capturing remote user voice.
+
+Yes, AV will scan our application and disable it, hence AV and Play protect should be disabled for TISPY service.
+
+Accessibility service is not performing into your monitoring device SM-T295
+
+Disable and enable accessibility service from your monitoring device's Settings -> Accessibility -> wifi service.
+
+Can you find my missing or stolen Cellphone?
+If you had installed TiSPY application in your stolen phone and subscribed for TiSPY service, then we can help you to find your missing or stolen phone.
+
+TiSPY service captures any event from the device when it receives it, so even if the user deletes any message immediately from the device, it is also captured by the TiSPY client and uploaded to the user portal.
+
+Live features is a real time features so you can only download them when you are accessing after that you can not downlaod them.
+After access live features it will appear in the page for sometime after it will disappear.
+
+TiSPY is safe and it is an encrypted parental monitoring app that provides superior features and better performance.
+
+TiSPY data stored into server in encrypted form. Without your credentials, no one can access your account. It is fully secured. No one has access of your account. So that means it is not something that your data has been compromised via TiSPY application.
+
+Screen Cast: It is OS limitation. This icon show into device notification bar during access live screen capture.
+
+
+
+Follow below steps to uninstall the TiSPY from your target Device.
+ 
+1. Open application installed list in your target device.
+2. Settings >> Apps >> Uninstall "WIFI service".
+ 
+- When you uninstall WiFi service to target phone their application will Alert one message Insert Pin.
+
+That Pin is your Password when you first register with TiSPY.
+
+Follow the below steps to reinstall the TiSPY in your target Device.
+
+1. Open link http://d.tispy.net/d/ in device's web browser , which will start downloading APK.
+2. Install that apk.
+3. Configure TiSPY client using the same account details.
+4. Clean browser and download history from phone.
+ 
+For more information refer installation guide: https://tispy.net/install-guide/
+
+After installation, please lock our application.
+
+1.Open recent Apps.
+2.Long Press on WiFi Service (Our Application).
+3.You will get the lock option in Samsung-Keep Open/ Vivo- Lock Down/ Rest Devices-Lock option. Click on it. 
+Please read Terms and Conditions from https://tispy.net/TiSPY/legal-info.html  
+
+
+
+We are already offering the best price as per the other providers, but you are an existing customer we can offer you the discount coupon WELCOME
+
+
+It looks like that the accessibility is disabled in the target phone, please enable it to use all the features.
+Settings ==> Accessibility ==> WiFi Service==> Enable it.
+
+https://tispy.net/templates/tispy/images/uservoice-imgs/accessibility.gif
+
+Also, please lock our application.
+1. Open recent Apps.
+2. Long Press on WiFi Service (Our Application).
+3. You will get the Lock option. Click on it.
+
+https://tispy.net/wp-content/uploads/2021/10/lockapp.gif
+
+
+Screen time: In "always allow", if you select any app then the target user will use that app, In downtime, if you set a fixed time For eg 3 pm to 5 pm then the target user won't be able to use any app, It will be locked for that particular time.
+In-app limit if you set a limit for the particular app for 30 min then the target user will be able to use that app for only 30 min after 30 mn that app will not be open.
+
+TiSPY is Parental monitoring software used to monitor and control your child's activity on their mobile device.
+TiSPY is easy to use, and its advanced features, like live panel, make it the world's most powerful parental monitoring application in the market.
+
+In OS 12 you need to allow permission for MIC and Camera, go back to your TiSPY settings option and click on Always access.
+
+We offer such pocket friendly plans which cost you a 3 months subscription at a price of one month.
+https://tispy.net/pricing/
+You can refer to the pricing link for more information.
+
+If you want to delete all data then you can delete with use of data liberation tab from user panel. In that page there are two options  , one for delete all data and second one for download data.
+
+Gallery, MIC, SDCard, CallLog, Location & Camera permission is disabled. they can enable it from their monitoring Device's Settings -> Application Manager -> WiFi Service -> In that they will find permission tab -> they need to open that permission -> and can enable all asked permissions.
+
+We have one feature called "Anti Theft". When someone tries to access the phone with the wrong password or wrong pattern, Our application will capture him and upload the photo.
+
+In scheduler section you can schedule the audio recording and screen capture for a specific time duration.
